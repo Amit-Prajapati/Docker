@@ -1,7 +1,7 @@
 ## Running Locally - Development Mode
 ```
 yarn install && npm install
-docker build -t smartboxui:dev 
+docker build -t <appName>:dev 
 docker-compose up -d --build
 ```
 
